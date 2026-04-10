@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+		<!-- Action Bar / ToolBar -->
+        <item name="colorPrimary">#0099cc</item>
+		<!-- Status Bar -->
+		<item name="colorPrimaryDark">#7fbdff</item>
+        <item name="colorAccent">#AAAA00</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+		<item name="android:windowDrawsSystemBarBackgrounds">true</item> 
+    </style>
+</resources>
